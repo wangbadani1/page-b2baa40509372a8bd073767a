@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e178ddd340d780bcaa09fce5",
+  "owner": "wangbadani1",
+  "repo": "page-b2baa40509372a8bd073767a",
+  "title": "白嫖(MDGZSQ)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b2baa40509372a8bd073767a",
+      "a": "白嫖(MDGZSQ)",
+      "b": "机场官网线路发布页",
+      "entity": "白嫖(MDGZSQ)",
+      "brand": "白嫖(MDGZSQ)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "74f47ff29bd0f382c99c70e29b3950782ed7993ac497e808e2c7646a926c560c",
+      "content": {
+        "primary_entity": "白嫖(MDGZSQ)",
+        "keyword1": "白嫖(MDGZSQ)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕订阅配置与套餐选择整理实用信息。基础版适合一至两人日常浏览，旗舰版覆盖流媒体与游戏加速，团队版面向多设备协作场景。按设备类型选择客户端后导入订阅地址即可使用，年付方案在月付基础上提供更优惠的折算价格。",
+          "AI_HERO_SUBTITLE": "海外加速器订阅配置与套餐对比",
+          "AI_HERO_INTRO": "白嫖(MDGZSQ)提供多档海外加速订阅方案，覆盖日常浏览、流媒体解锁与游戏加速场景。从三台设备到二十台设备，从100GB到1000GB月流量，可根据使用人数和终端数量选择对应套餐。",
+          "AI_VISUAL_TITLE": "按设备选套餐，按周期订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "支持3至20台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付折算比月付更划算",
+          "AI_FEATURES_TITLE": "套餐与订阅要点",
+          "AI_FEATURES_INTRO": "根据设备数量、流量需求和预算选择对应方案，避免功能冗余。",
+          "AI_FEATURE_TITLE_1": "按设备数量选择",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，按实际终端数选择可避免浪费。",
+          "AI_FEATURE_TITLE_2": "按流量需求匹配",
+          "AI_FEATURE_TEXT_2": "100GB适合轻量浏览，300GB满足高清流媒体，1000GB支撑多设备高强度使用。",
+          "AI_FEATURE_TITLE_3": "按订阅周期付费",
+          "AI_FEATURE_TEXT_3": "月付灵活随时调整，年付以十个月价格覆盖十二个月使用，长期使用更合算。",
+          "AI_CLIENTS_TITLE": "选择客户端",
+          "AI_CLIENTS_INTRO": "不同操作系统对应不同的客户端软件，请根据设备类型选择并参考对应配置文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和节点权益上各有侧重，先确认使用人数与终端数量，再选择月付或年付。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选择服务到完成配置，按步骤操作即可正常使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版、团队版中选定一档，并确认月付或年付。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备操作系统版本是否满足客户端运行条件，并预留足够的存储空间。",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅地址，按照客户端文档说明完成节点选择与连接测试。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、3台设备、普通线路节点池；旗舰版每月300GB、5台设备，并包含IPLC专线游戏加速优化和原生流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出数量可能导致部分设备无法连接。",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付150元，相当于十个月月付价格；旗舰版年付350元，团队版年付850元，均按十个月折算十二个月使用。",
+          "AI_FAQ_QUESTION_4": "应该选择哪个客户端？",
+          "AI_FAQ_ANSWER_4": "Windows、macOS、iOS、Android等不同系统对应不同客户端。请根据设备操作系统选择，并参考对应客户端的配置文档导入订阅。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月1000GB流量和20台设备支持，适合小型团队协作、多终端办公或需要企业定制路由的场景。",
+          "AI_CLOSING_TITLE": "选对套餐，配置无忧",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档导入订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xyfczw.com",
+    "host": "xyfczw.com"
+  },
+  "file_hashes": {
+    "index.html": "670801d719e3d85a633b2420b8c76efb612c55cd50017edd5b530dbbec1ce8d0",
+    "sitemap.xml": "8d7c938782f3a463f6f27d13b6a866d08230764e9c25c309997aad0e044fd169",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1daa6b6495d696d455c84b53d0e10377a8e529fed01d4a5a28ac513dbaea4a4d",
+    "robots.txt": "3be1efd023c88e49432e21a0bbc784c6f7f4503d779fd406b7eb78d698d38905",
+    "8284ca208251838ce978054016dc35b0.txt": "eacc74d7150a0b71ed7c7b57765e0a93be8b5eb6c4e678637a29dfcfc5163743"
+  },
+  "revision": "81d96c62652390213e31fb3da502c7e6087ecd531afac50b1646434c1e6c6f8e"
+}
